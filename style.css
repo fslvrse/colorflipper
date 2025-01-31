@@ -3,5 +3,21 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
     color: black;
-    
+    border-radius: 2px;
+
+}
+#blue{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: black;
+    border-radius: 2px;
+}
+
+#green{ 
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: black;
+    border-radius: 2px;
 }
